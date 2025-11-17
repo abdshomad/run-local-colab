@@ -1,6 +1,6 @@
-# Reference: https://research.google.com/colaboratory/local-runtimes.html
-
 #!/usr/bin/env bash
+
+# Reference: https://research.google.com/colaboratory/local-runtimes.html
 set -euo pipefail
 
 START_PORT=8080
